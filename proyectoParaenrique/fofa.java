@@ -8,5 +8,6 @@ public class fofa {
 	int mierda1;
 	int mierda2;
 	int mierda3;
+	int mierdaFinal;
 
 }
