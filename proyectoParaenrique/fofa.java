@@ -4,5 +4,6 @@ public class fofa {
 	int dos;
 	int tres;
 	int cuatro;
+	int cinco;
 
 }
