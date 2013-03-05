@@ -10,5 +10,6 @@ public class fofa {
 	int mierda3;
 	int mierdaFinal;
 	int otro;
+	int otraMierdaMas;
 
 }
