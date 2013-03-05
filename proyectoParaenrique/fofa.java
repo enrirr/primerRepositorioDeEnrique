@@ -11,5 +11,6 @@ public class fofa {
 	int mierdaFinal;
 	int otro;
 	int otraMierdaMas;
+	int ubuntuuu;
 
 }
